@@ -5,7 +5,7 @@ For database, better using https://railway.app/ :)
 
 Configure database on config/database.go
 
-```http
+```bash
 const (
 	host     = ""
 	port     = ....
@@ -17,7 +17,7 @@ const (
 
 #### How to run
 
-```http
+```bash
   go run main.go
 ```
 
